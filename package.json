@@ -1,8 +1,8 @@
 {
   "name": "js-monitors",
-  "version": "1.0.4",
+  "version": "1.0.8",
   "description": "",
-  "main": "/lib/index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,6 +16,11 @@
     "name": "nanfeiyan",
     "email": "3328921305@qq.com"
   },
-  "license": "ISC",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
   "homepage": "https://github.com/nanfeiyan123/js-monitor"
 }
