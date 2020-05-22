@@ -1,0 +1,20 @@
+{
+  "name": "js-monitors",
+  "version": "1.0.3",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "modules",
+    "util",
+    "exception",
+    "monitors"
+  ],
+  "author": {
+    "name": "nanfeiyan",
+    "email": "3328921305@qq.com"
+  },
+  "license": "ISC"
+}
