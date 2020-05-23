@@ -49,4 +49,4 @@ require('js-monitors');
 
 ![发送的请求](https://oss.guangmangapp.com/b2672ce3-e870-4002-a1af-f7e19c43fc2a.png)
 
-**有问题请联系 `3328921305@qq.com`**
+**If you have any questions, please contact me `3328921305@qq.com`**
